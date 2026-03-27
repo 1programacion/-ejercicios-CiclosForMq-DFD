@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+40
+'Que tabla de multiplicar desea conocer'
+5
+1
+4
+num1
+4
+1
+41
+'Cuantas veces desea multiplicar ',  num1
+5
+1
+4
+num2
+8
+1
+5
+ciclo
+1
+1
+1
+1
+4
+num2
+1
+1
+1
+6
+1
+9
+resultado
+10
+num1*ciclo
+4
+1
+33
+num1, 'x', ciclo , '=', resultado
+10
+4
+1
+8
+'Denada'
+1

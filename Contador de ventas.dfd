@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+8
+contador
+1
+0
+10
+acumulador
+1
+0
+5
+ciclo
+1
+0
+6
+1
+5
+venta
+1
+0
+9
+1
+7
+ciclo=0
+4
+1
+38
+'Ingrese el valor de la venta del dia'
+5
+1
+5
+venta
+6
+2
+8
+contador
+10
+contador+1
+10
+acumulador
+16
+acumulador+venta
+4
+1
+38
+contador ,' Usted lleva $ ',acumulador
+4
+1
+63
+'Ingrese 0 para continuat y cualquier numero para no sumar mas'
+5
+1
+5
+ciclo
+11
+4
+1
+46
+'No cuanto mas en total obtuvo: $ ',acumulador
+1
